@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM FROM python:3.10-slim AS base
+FROM python:3.10-slim AS base
 
 FROM base AS builder
 
